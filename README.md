@@ -1,2 +1,2 @@
-# TIL
-I keep learning.
+# Today I learnt.
+I keep learning. Shh.
