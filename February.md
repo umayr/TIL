@@ -20,6 +20,4 @@
 
 ## Javascript.
 
-- Figured out how references work in JS. If you create a collection and copy it to another array of objects, the reference of an individual object remains same. 
-- I write quite amazing code. ;3
-- 
+- Figured out how references work in JS. If you create a collection and copy it to another array of objects, the reference of an individual object remains same.
